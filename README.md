@@ -6,5 +6,5 @@
 τ
 . Manager Dashboard: Provides real-time telemetry on capacity utilization (occupied tables) and cumulative gross revenue. Error Handling & Security: Includes robust exception handling (try-except blocks) to prevent system crashes from non-numeric input and state protection to prevent "double-billing"
 
- 🛠️ How to Set Up and Use Clone the Repository:
+ 🛠️ How to Set Up and Use Clone the Repository:https://github.com/anika25bai11462-dotcom/csa-project-anika-
  
